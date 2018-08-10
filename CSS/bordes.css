@@ -1,0 +1,59 @@
+ h1{
+    text-align: center;
+    font-size: 72px;
+ }
+
+ p {
+     font-size: 60px;
+     /* tipo de fuente
+      em 1em = 16px = 34px / 16px = 2.125 em*/
+      font-size: 2.125em;
+      /*Tipo de la fuente*/
+     font-family: Georgia,Serif,Arial;
+     /*peso de la fuente: normal,bold,bolder,lighter, 100 a 900,inherit*/
+     font-weight: 800;
+
+}
+.par1{
+	border: blue thin solid;
+}
+
+.par2{
+	border: pink medium solid;
+}
+
+.par3{
+	border: yellow thick solid;
+}
+
+.par4{
+	border: green 20px double;
+}
+
+.par5{
+	border: brown 30px dashed;
+}
+
+.par6{
+	border: red 20px groove;
+}
+
+.par7{
+	border: purple thin ridge;
+}
+
+.par8{
+	border: gray 15x inset;
+}
+
+.par9{
+	border: orange 40px outset;
+}
+
+.par10{
+	border: gray 30px solid;
+}
+
+em{
+	font-weight: bolder;
+}

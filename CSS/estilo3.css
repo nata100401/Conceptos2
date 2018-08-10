@@ -1,0 +1,31 @@
+body {
+	background-color: #15ce61;
+}
+h1 	{
+	text-align: center;
+
+
+/* Aplicando el mismo estilo a P y A code*/
+p,code, strike	{
+	/* tamaño de la fuente */
+	font-size: 78px;
+}
+
+.cur2	{
+	color: #ecfff8;
+	font-size: 72px;
+}
+    
+.cur1 	{
+	/* propiedad de fondo */
+	background-color: #26aaaa;
+	font-size: 80px;
+}
+
+p1 em{
+    color: red
+}
+
+p2 em{
+    color: black
+}
